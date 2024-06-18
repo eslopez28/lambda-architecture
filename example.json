@@ -1,0 +1,46 @@
+{
+    "sla_error": [
+        {
+            "folder": "/usr/document/folderwithSLA2",
+            "sla": 60,
+            "files": [
+                {
+                    "filename": "exampleFile6.txt",
+                    "creationDate": "2024-06-15T19:25:25"
+                },
+                {
+                    "filename": "exampleFile7.txt",
+                    "creationDate": "2024-06-15T18:05:25"
+                }
+            ]
+        },
+        {
+            "folder": "/usr/document/folderwithSLA1",
+            "sla": 20,
+            "files": [
+                {
+                    "filename": "exampleFile1.txt",
+                    "creationDate": "2024-06-15T20:05:25"
+                },
+                {
+                    "filename": "exampleFile3.txt",
+                    "creationDate": "2024-06-15T19:55:25"
+                }
+            ]
+        },
+        {
+            "folder": "/usr/document/folderwithSLA3",
+            "sla": 90,
+            "files": [
+                {
+                    "filename": "exampleFile8.txt",
+                    "creationDate": "2024-06-15T18:55:25"
+                },
+                {
+                    "filename": "exampleFile11.txt",
+                    "creationDate": "2024-06-15T19:00:25"
+                }
+            ]
+        }
+    ]
+}
